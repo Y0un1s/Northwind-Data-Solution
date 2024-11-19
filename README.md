@@ -48,12 +48,12 @@ The **Northwind-ETL-and-Analytics** project is a robust data warehouse implement
 - **Employee Performance**: Evaluate order management efficiency by employees.
 
 ## Project Workflow
-| **Task**              | **Assigned Members**        | **Priority** | **Status**    | **Start Date** | **End Date**   |
-|-----------------------|----------------------------|--------------|---------------|----------------|----------------|
-| Business Requirements | Ahmed Fawzy                | P0           | Completed     | 2024-09-29     | 2024-09-29     |
-| Data Modeling         | Ahmed Fawzy, Ahmed Younis  | P0           | Completed     | 2024-09-29     | 2024-09-30     |
-| ETL Development       | Ahmed Younis               | P0           | Completed     | 2024-10-01     | 2024-10-04     |
-| Analysis              | Ahmed Fawzy                | P1           | Completed     | 2024-10-03     | 2024-10-04     |
+| **Task**              | **Assigned Members**            | **Priority** | **Status**    | **Start Date** | **End Date**   |
+|-----------------------|----------------------------------|--------------|---------------|----------------|----------------|
+| Business Requirements | Ahmed Fawzy                    | P0           | Completed     | 2024-09-29     | 2024-09-29     |
+| Data Modeling         | Ahmed Fawzy, Ahmed Younis      | P0           | Completed     | 2024-09-29     | 2024-09-30     |
+| ETL Development       | Ahmed Younis, Ebrahim Ayman    | P0           | Completed     | 2024-10-01     | 2024-10-04     |
+| Analysis              | Ahmed Fawzy, Fouad Khaled      | P1           | Completed     | 2024-10-03     | 2024-10-04     |
 
 ## How to Use
 1. **Clone the Repository**:
