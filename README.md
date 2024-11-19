@@ -3,7 +3,10 @@
 ## Overview
 The **Northwind-ETL-and-Analytics** project is a robust data warehouse implementation for the Northwind Traders dataset. It is designed to provide insights into business operations, focusing on sales, inventory, and customer behavior, using well-structured data models, automated ETL pipelines, and interactive dashboards.
 ## Demo Video
-[![Watch the video](https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif)](https://github.com/Y0un1s/Northwind-Data-Solution/blob/main/Northwind%20Data%20Solution%20Demo.mp4)
+<a href="https://github.com/Y0un1s/Northwind-Data-Solution/blob/main/Northwind%20Data%20Solution%20Demo.mp4">
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="Watch the video" width="300">
+</a>
+
 
 ## Features
 - **Data Modeling**:
