@@ -58,4 +58,4 @@ The **Northwind-ETL-and-Analytics** project is a robust data warehouse implement
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Y0un1s/Northwind-ETL-and-Analytics.git
+   git clone https://github.com/Y0un1s/Northwind-Data-Solution.git
